@@ -1,3 +1,0 @@
-conway's game of life : 
-	> une cellule deprime et part si elle a moins de 2 ou plus de 3 voisines
-	> une cellule s'installe dans le quartier si elle a trois voisines
