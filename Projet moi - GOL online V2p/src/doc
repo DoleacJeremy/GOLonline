@@ -1,0 +1,16 @@
+﻿conway's game of life : 
+	> une cellule déprime et part si elle a moins de 2 voisines ou plus de 3
+	> une cellule s'installe dans le quartier si elle a trois voisines
+	
+compilation : 
+	> mettre le dossier ressources à côté du .jar
+	> le .jar ne vas pas dans le dossier ressources
+	
+figure fichier : 
+	> il faut que les coordonnées soient dans un fichier "cellules.txt" dans le dossier ressource
+	> une seule cellule par ligne 
+	> une cellule est représentée par x:y avec x et y les coordonnées séparé par un ":"
+		exemple => 34:45
+	
+temps de refactoring complet :
+	> 5h15

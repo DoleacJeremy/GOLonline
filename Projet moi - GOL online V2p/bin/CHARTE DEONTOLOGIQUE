@@ -1,0 +1,67 @@
+CHARTE DEONTOLOGIQUE DE FINISION D'UN PROJET
+
+1	80% du code sous musica de la zone de danger	100%
+16	checkos los patternos							00%
+4	pas de methode inutiliser						100%
+7	verifier le public/private de partout			100%
+8	toute les methodes sont dans la bonne classe	100%
+21	toute les methodes hérité sont utilisé			100%
+15	pas plus de 10~15 ligne par methodes			100%
+3	pas de nom de variables/methode de merde		100%
+3	nom de variable qui veulent dire quelquechose	100%
+18	nom de classe choerant "sens"/"entre elles"		100%
+19	suivre les CONVENTION DE PORNO EDITORIAL		100%
+17	reorganisation de l'emplacement methode			100%
+2	des test pour au minimum les methodes de base	100%
+10	ctr + shift + f									000%
+6	commentaire de ce que fait la methode			100%
+11	un minimum de commentaire						100%
+14	pas de warning									100%
+5	suivre le plus possible de sonarlint			100%
+12	les sysout sont nomer avec la ligne correcte	100%
+9	doc de ce qu'est le projet						100%
+13	[un coup d'antidote] / [codage en englais]		00%
+20	si le projet est gros faire de l'uml			000%
+
+
+liens utiles :
+	patttern : 
+		https://sourcemaking.com/
+	https://regexr.com/
+	
+	
+	CONVENTION DE PORNO EDITORIAL :
+		interface : 
+			I majuscule devan un nom d'interface
+			"Concrete" plus le nom de l'interface implémenté plus le nom de l'implementation
+			ex : ConcretePornoBondage Implements IPorno
+		classe : 
+			ne contiens pas de s a la fin car objet simple
+	
+		///ZONE DE DANGER\\\ 
+		
+	EFFETS DE BASE : RISQUE D'IMPLOSION 800% , PRODUCTION 400%
+	https://youtu.be/0TCblr92o8M ~ boom boom boom boom I want you in my room
+	https://youtu.be/GBF2LmAYIpA ~ chui bo 
+	https://youtu.be/4_BETBy71hE ~ DJ Tulis ft. Alexandr B. - Aebywke, Kotopyho Mho6mho (DJ AzatX MashUp)
+	https://youtu.be/0XFudmaObLI ~ Aaron Smith - Dancin (KRONO Remix)
+	https://youtu.be/S6MlTzFpS8c ~ Anime Dance Paradise 3
+	https://youtu.be/m9PV9qjvNPE ~ Maktone - softworld
+
+	RISQUE IMPLOSION +1800% PRODUCTION +400%
+	https://youtu.be/08ivug3vfKc ~ Dj Twin - Super Klaas(Electro Mix)
+	https://youtu.be/yo4pmauhugo ~ Armin van Buuren vs Vini Vici feat. Hilight Tribe - Great Spirit
+	https://youtu.be/fQ_UeBxEQPQ ~ Hey Baby
+	
+	RISQUE IMPLOSION -1600% PRODUCTION + 200%
+	https://youtu.be/MVqlEA78eeA ~ Best Nightcore Mix 2017 Ultimate Nightcore Gaming Mix 1 Hour
+	https://youtu.be/tftKstOojKg ~ camilla
+	https://youtu.be/SLxrrE6wC5I ~ porque te vas
+	
+	
+	
+	
+	
+	
+	
+	
