@@ -81,7 +81,7 @@ public class AmmasCellulaire_test {
 		cellulesANePasAjouter.add(c6);
 		ammas.ajouteCellule(c6);
 
-		// cellule a ajout�
+		// cellule a ajoute
 		Cellule c7 = new Cellule(new Position(3, 2));
 		cellulesAAjouter.add(c7);
 		Cellule c8 = new Cellule(new Position(3, 4));

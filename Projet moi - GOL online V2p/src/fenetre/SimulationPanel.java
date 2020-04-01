@@ -103,14 +103,14 @@ public class SimulationPanel extends JPanel implements Runnable, MouseListener {
 		}
 	}
 
-	// transforme -l'essai- l'evenement MouseEvent en position pour la cellule
+	// transforme l'evenement MouseEvent en position pour la cellule
 	private Position getPositionDepuisSouris(MouseEvent e) {
 		int x = (int) e.getPoint().getX();
 		int y = (int) e.getPoint().getY();
 		return (new Position(x, y));
 	}
 
-	// permet d'intercepter  un click de souris
+	// permet d'intercepter un click de souris
 	private boolean clickZoneBoutons(MouseEvent e) {
 		boolean x = e.getPoint().getX() <= this.boutonPausePlay.getWidth() && e.getPoint().getX() >= 0;
 		boolean y = e.getPoint().getY() <= this.boutonPausePlay.getHeight() && e.getPoint().getY() >= 0;
